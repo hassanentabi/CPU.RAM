@@ -1,0 +1,17 @@
+D:\Subjects\Application\CPU.RAM3\CPU.RAM3\bin\Debug\CPU.RAM3.exe.config
+D:\Subjects\Application\CPU.RAM3\CPU.RAM3\obj\Debug\CPU.RAM3.Properties.Resources.resources
+D:\Subjects\Application\CPU.RAM3\CPU.RAM3\obj\Debug\CPU.RAM3.csproj.GenerateResource.Cache
+D:\Subjects\Application\CPU.RAM3\CPU.RAM3\bin\Debug\CPU.RAM3.exe
+D:\Subjects\Application\CPU.RAM3\CPU.RAM3\bin\Debug\CPU.RAM3.pdb
+D:\Subjects\Application\CPU.RAM3\CPU.RAM3\obj\Debug\CPU.RAM3.exe
+D:\Subjects\Application\CPU.RAM3\CPU.RAM3\obj\Debug\CPU.RAM3.pdb
+D:\Subjects\Application\CPU.RAM3\CPU.RAM3\obj\Debug\CPU.RAM3.Frm_Main.resources
+D:\Subjects\Application\CPU.RAM 1.0.0.0\CPU.RAM3\bin\Debug\CPU.RAM3.exe.config
+D:\Subjects\Application\CPU.RAM 1.0.0.0\CPU.RAM3\obj\Debug\CPU.RAM3.exe
+D:\Subjects\Application\CPU.RAM 1.0.0.0\CPU.RAM3\obj\Debug\CPU.RAM3.pdb
+D:\Subjects\Application\CPU.RAM 1.0.0.0\CPU.RAM3\bin\Debug\CPU.RAM3.exe
+D:\Subjects\Application\CPU.RAM 1.0.0.0\CPU.RAM3\bin\Debug\CPU.RAM3.pdb
+D:\Subjects\Application\CPU.RAM 1.0.0.0\CPU.RAM3\obj\Debug\CPU.RAM3.Frm_Main.resources
+D:\Subjects\Application\CPU.RAM 1.0.0.0\CPU.RAM3\obj\Debug\CPU.RAM3.Properties.Resources.resources
+D:\Subjects\Application\CPU.RAM 1.0.0.0\CPU.RAM3\obj\Debug\CPU.RAM3.csproj.GenerateResource.Cache
+D:\Subjects\Application\CPU.RAM 1.0.0.0\CPU.RAM3\obj\Debug\CPU.RAM3.csprojResolveAssemblyReference.cache
